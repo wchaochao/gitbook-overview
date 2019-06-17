@@ -2,7 +2,7 @@
 dist ?= ../../dist
 
 # 仓库名
-repo ?= gitbook-init
+repo ?= gitbook-overview
 
 deploy:
 	make pull;make node_modules;make build
