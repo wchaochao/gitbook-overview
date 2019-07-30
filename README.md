@@ -1,16 +1,17 @@
 # Introduction
 
-gitbook笔记概览
+前端笔记目录
 
-## 进行中
+## JavaScript
 
-* [JavaScript语法](http://book.wchaochao.com/gitbook-javascript-grammar/index.html)(25/31)
-* [ES5](http://book.wchaochao.com/gitbook-es5/index.html)(8/14)
-* [ECMAScript规范](http://book.wchaochao.com/gitbook-ecmascript-standard/index.html)(32/38)
-* [收藏](http://book.wchaochao.com/gitbook-collection/index.html)(5)
+* [JavaScript语法](http://book.wchaochao.com/gitbook-javascript-grammar/index.html)
+* [ES5](http://book.wchaochao.com/gitbook-es5/index.html)
+* [ECMAScript规范](http://book.wchaochao.com/gitbook-ecmascript-standard/index.html)
 
-## 已完成
+## Linux
 
-### JavaScript
+* [Linux基础](http://book.wchaochao.com/gitbook-linux-base/index.html)
 
-### 工具类
+## 工具类
+
+* [收藏](http://book.wchaochao.com/gitbook-collection/index.html)
