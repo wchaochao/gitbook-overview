@@ -1,6 +1,4 @@
-# Introduction
-
-前端笔记目录
+# 前端笔记系列
 
 ## JavaScript
 
@@ -9,6 +7,10 @@
 * [ES6系列](http://book.wchaochao.com/gitbook-es6/index.html)
 * [ECMAScript5.1规范系列](http://book.wchaochao.com/gitbook-ecmascript-standard/index.html)
 * [ECMAScript6规范系列](http://book.wchaochao.com/gitbook-es6-standard/index.html)
+
+## 计算机
+
+* [计算机基础系列](http://book.wchaochao.com/gitbook-computer-base/index.html)
 
 ## Linux
 
