@@ -1,4 +1,4 @@
-# 前端笔记系列
+# 学习笔记系列
 
 ## JavaScript
 
@@ -22,4 +22,5 @@
 
 ## 工具类
 
+* [书单](http://book.wchaochao.com/gitbook-book-list/index.html)
 * [收藏](http://book.wchaochao.com/gitbook-collection/index.html)
