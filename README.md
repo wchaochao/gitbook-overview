@@ -12,6 +12,10 @@
 
 * [计算机基础系列](http://book.wchaochao.com/gitbook-computer-base/index.html)
 
+## 程序设计
+
+* [Pascal解释器系列](http://book.wchaochao.com/gitbook-pascal-interpreter/index.html)
+
 ## 网络
 
 * [网络基础系列](http://book.wchaochao.com/gitbook-network-base/index.html)
