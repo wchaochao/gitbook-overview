@@ -1,5 +1,7 @@
 # 学习笔记系列
 
+* [前端知识体系系列](http://book.wchaochao.com/gitbook-frontend/index.html)
+
 ## JavaScript
 
 * [JavaScript语法系列](http://book.wchaochao.com/gitbook-javascript-grammar/index.html)
@@ -12,7 +14,7 @@
 
 * [计算机基础系列](http://book.wchaochao.com/gitbook-computer-base/index.html)
 
-## 程序设计
+## 程序设计语言
 
 * [Pascal解释器系列](http://book.wchaochao.com/gitbook-pascal-interpreter/index.html)
 
