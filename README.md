@@ -1,6 +1,7 @@
 # 学习笔记系列
 
 * [前端知识体系系列](http://book.wchaochao.com/gitbook-frontend/index.html)
+* [前端理解系列](http://book.wchaochao.com/gitbook-comprehension/index.html)
 
 ## JavaScript
 
